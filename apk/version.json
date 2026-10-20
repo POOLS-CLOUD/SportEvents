@@ -1,14 +1,13 @@
 {
-  "versionCode": 117,
-  "versionName": "3.48",
-  "url": "https://pools-cloud.github.io/SportEvents/apk/SportEventsManager-3.48.apk",
-  "notas": "- Panel del creador: añadir administradores (email y contraseña), cambiar su contraseña y quitarlos\n- Cada administrador sale plegado: al tocarlo se ven sus opciones; la × pide confirmación",
+  "versionCode": 118,
+  "versionName": "3.49",
+  "url": "https://pools-cloud.github.io/SportEvents/apk/SportEventsManager-3.49.apk",
+  "notas": "- Panel del creador: los canales de Telegram salen plegados (solo el nombre); al tocarlos se ve el resto",
   "cambios": [
-    "Panel del creador: añadir administradores (email y contraseña), cambiar su contraseña y quitarlos",
-    "Cada administrador sale plegado: al tocarlo se ven sus opciones; la × pide confirmación"
+    "Panel del creador: los canales de Telegram salen plegados (solo el nombre); al tocarlos se ve el resto"
   ],
   "anterior": {
-    "versionName": "3.47",
-    "url": "https://pools-cloud.github.io/SportEvents/apk/SportEventsManager-3.47.apk"
+    "versionName": "3.48",
+    "url": "https://pools-cloud.github.io/SportEvents/apk/SportEventsManager-3.48.apk"
   }
 }
