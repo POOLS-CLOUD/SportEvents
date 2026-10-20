@@ -1,13 +1,16 @@
 {
-  "versionCode": 119,
-  "versionName": "3.50",
-  "url": "https://pools-cloud.github.io/SportEvents/apk/SportEventsManager-3.50.apk",
-  "notas": "- Panel del creador: «última actividad» de cada administrador (cuándo usó la app por última vez, no cuándo escribió la contraseña)",
+  "versionCode": 120,
+  "versionName": "3.51",
+  "url": "https://pools-cloud.github.io/SportEvents/apk/SportEventsManager-3.51.apk",
+  "notas": "- Horario con desplegables: Desde hh:mm y Hasta hh:mm\n- «Importe por persona» pasa a llamarse «Precio»\n- Panel del creador: nuevo apartado «📨 Mensajes» con lo que escriben desde la web\n- Web: «🏆 ¿Organizas competiciones? Escríbenos» abre un formulario (tu email no se ve)",
   "cambios": [
-    "Panel del creador: «última actividad» de cada administrador (cuándo usó la app por última vez, no cuándo escribió la contraseña)"
+    "Horario con desplegables: Desde hh:mm y Hasta hh:mm",
+    "«Importe por persona» pasa a llamarse «Precio»",
+    "Panel del creador: nuevo apartado «📨 Mensajes» con lo que escriben desde la web",
+    "Web: «🏆 ¿Organizas competiciones? Escríbenos» abre un formulario (tu email no se ve)"
   ],
   "anterior": {
-    "versionName": "3.49",
-    "url": "https://pools-cloud.github.io/SportEvents/apk/SportEventsManager-3.49.apk"
+    "versionName": "3.50",
+    "url": "https://pools-cloud.github.io/SportEvents/apk/SportEventsManager-3.50.apk"
   }
 }
