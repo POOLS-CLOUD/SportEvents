@@ -1,13 +1,13 @@
 {
-  "versionCode": 118,
-  "versionName": "3.49",
-  "url": "https://pools-cloud.github.io/SportEvents/apk/SportEventsManager-3.49.apk",
-  "notas": "- Panel del creador: los canales de Telegram salen plegados (solo el nombre); al tocarlos se ve el resto",
+  "versionCode": 119,
+  "versionName": "3.50",
+  "url": "https://pools-cloud.github.io/SportEvents/apk/SportEventsManager-3.50.apk",
+  "notas": "- Panel del creador: «última actividad» de cada administrador (cuándo usó la app por última vez, no cuándo escribió la contraseña)",
   "cambios": [
-    "Panel del creador: los canales de Telegram salen plegados (solo el nombre); al tocarlos se ve el resto"
+    "Panel del creador: «última actividad» de cada administrador (cuándo usó la app por última vez, no cuándo escribió la contraseña)"
   ],
   "anterior": {
-    "versionName": "3.48",
-    "url": "https://pools-cloud.github.io/SportEvents/apk/SportEventsManager-3.48.apk"
+    "versionName": "3.49",
+    "url": "https://pools-cloud.github.io/SportEvents/apk/SportEventsManager-3.49.apk"
   }
 }
